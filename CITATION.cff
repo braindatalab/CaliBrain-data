@@ -19,7 +19,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-4141-3544"
 repository: "https://github.com/braindatalab/CaliBrain-data"
 url: "https://github.com/braindatalab/CaliBrain-data/releases"
-abstract: "Example forward solutions and leadfields (fixed and free orientation) for the fsaverage template, used by the CaliBrain toolbox for uncertainty quantification and calibration in EEG/MEG inverse source imaging."
+abstract: "Example forward solution for the fsaverage template, used by the CaliBrain toolbox for uncertainty quantification and calibration in EEG/MEG inverse source imaging. The leadfield files are created from it with CaliBrain."
 keywords:
   - EEG
   - MEG
