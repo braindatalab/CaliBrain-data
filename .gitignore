@@ -1,0 +1,10 @@
+# The data are published as release assets and must never be committed to git.
+*.zip
+*.fif
+*.npz
+*.h5
+*.nc
+*.tar
+*.tar.gz
+manifest.json
+.DS_Store
