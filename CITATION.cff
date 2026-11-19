@@ -18,16 +18,17 @@ authors:
     orcid: "https://orcid.org/0000-0002-4141-3544"
 repository: "https://github.com/braindatalab/CaliBrain-data"
 url: "https://github.com/braindatalab/CaliBrain-data/releases"
-abstract: "Example forward solution for the fsaverage template, used by the CaliBrain toolbox for uncertainty quantification and calibration in EEG/MEG inverse source imaging. The leadfield files are created from it with CaliBrain."
+abstract: "Example forward solutions with the full source space (the fsaverage template and four CamCAN participants) for CaliBrain, a Python toolbox for uncertainty quantification, calibration, and benchmarking in Bayesian M/EEG inverse source imaging. CaliBrain reduces them to 1284 sources and creates the leadfield files from them."
 keywords:
   - EEG
   - MEG
   - forward model
   - leadfield
   - fsaverage
+  - CamCAN
 references:
   - type: software
-    title: "CaliBrain"
+    title: "CaliBrain: A Python toolbox for uncertainty quantification, calibration, and benchmarking in Bayesian M/EEG inverse source imaging"
     authors:
       - family-names: "Orabe"
         given-names: "Mohammad"

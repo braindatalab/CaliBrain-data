@@ -2,7 +2,7 @@
 
 Example forward solutions for
 [CaliBrain](https://github.com/braindatalab/CaliBrain), a Python toolbox for
-uncertainty quantification and calibration in EEG/MEG inverse source imaging.
+uncertainty quantification, calibration, and benchmarking in Bayesian M/EEG inverse source imaging.
 
 The files are published as release assets of this repository, not in git. Check the
 [Releases](https://github.com/braindatalab/CaliBrain-data/releases) page.
