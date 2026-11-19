@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "If you use these data, please cite them and the CaliBrain software."
 title: "CaliBrain example data"
 type: dataset
-version: "example-data-1"
 license: "CC-BY-4.0"
 authors:
   - family-names: "Orabe"
